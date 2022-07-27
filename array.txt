@@ -1,0 +1,20 @@
+Array is collection of similar elements which are saved as continuous memory location.
+
+Advanatages of Array- 
+1 code optimization
+2 Random access
+
+disadvantages of Array-
+1 Size limit
+2 A fit number of element can be stored in an array
+
+Two typws of Array-
+1 One Dimensional array
+2 Two Dimensional array
+
+.One Dimensinal Array- syntax=datatype variable[];
+                             datatype [] variable;
+  
+-Memory allocation- variable name =new datatype[size];
+
+-Intialization - variablename={values};
